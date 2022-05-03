@@ -3954,5 +3954,3936 @@
     }
   ],
   "error_msg": "OK"
+},{
+  "llsid": 2005109324464578353,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 11101001,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://ocpc-api.shinet.cn/dispense/kuaishou/click?dsp\u003dkuaishou\u0026imeiMd5\u003d__IMEI2__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bk6oNZGw5SVKgrAeZMXGk16lflnqilKZd82VP2gPMyRXRqunzFhCPUWnlEjYlYhyQsR3AV4RFj-B07IWzgOhGrX1CIknp_aDZYFiMg5e9wOLwLb5WVNzxhm2qmq5wYJJ98dxLaAqBDdcw0_zQDJsbp\u0026campaignid\u003d785366462\u0026oaid\u003d__OAID__\u0026oaid2\u003d__OAID2__\u0026mac\u003d__MAC3__\u0026aid\u003d1428863324\u0026cid\u003d22672502181\u0026did\u003d785366462\u0026androidId\u003d__ANDROIDID2__\u0026product\u003dyyrs\u0026account_id\u003d13137697\u0026os\u003dandroid"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bk6oNZGw5SVKgrAeZMXGk16lflnqilKZd82VP2gPMyRXRqunzFhCPUWnlEjYlYhyQsR3AV4RFj-B07IWzgOhGrX1CIknp_aDZYFiMg5e9wOLwLb5WVNzxhm2qmq5wYJJ98dxLaAqBDdcw0_zQDJsbp",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://toufang.shinet.cn/app/yyrs/kssxhxwyyrsktdt/kssxhxwyyrsktdt.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22672502181,
+            "accountId": 13137697,
+            "adSourceType": 1,
+            "adDescription": "全新国风休闲经营游戏上线，好玩有趣还能领红包！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 60,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg",
+            "appName": "悠悠人生.apk",
+            "appPackageName": "com.wj.yyrs",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 785366462,
+            "unitId": 1428863324,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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\u003d\u003d",
+            "campaignName": "行为-上下滑-0420-1跑",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "悠悠人生",
+            "enableCloseAd": true,
+            "adActionBarColor": "d8c100",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/04/04/11/BMjAyMjA0MDQxMTQ2NDdfMjgxNzUyNzI3N183MTE5MDg0MjAyNl8wXzM\u003d_b_B69d67f1d07945e18395f8397583e801e.mp4?tag\u003d1-1651536330-unknown-0-bgr1oa4nhx-c6e260db304a755b\u0026clientCacheKey\u003d3xh4b5nm6x34sas_b.mp4\u0026tt\u003db\u0026di\u003d70338b0d\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5230368089720724766,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2817527277,
+            "userName": "省钱小妙招",
+            "accountId": 13137697,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2022/04/20/15/BMjAyMjA0MjAxNTEzMThfMjgxNzUyNzI3N18zX2hkNTEwXzgzMg\u003d\u003d_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "2243ab3b75513688",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 59560,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/bbJGFXdGZCe8_EIbxKj6w7xO_2wOuZxjHGqzgIHUhdJg_oesmzFZMGdkknsVtcFC4Dqjjf3YMXcRaLaaK5MH1A3Cm_89lEtZbtCywJYcctczf91N8UlWJbWFo5I3E9uyzNmHgYocJ3_2J2-qm7pkM__YRZttAYCEaBn_-zwOBo7EP4I5YaGiPtd5AiD5erAi.mp4?tag\u003d1-1651537402-unknown-0-d7thgubvkn-5309574d12e7bb1a\u0026type\u003dhot\u0026clientCacheKey\u003d3xh4b5nm6x34sas_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/bbJGFXdGZCe8_EIbxKj6w7xO_2wOuZxjHGqzgIHUhdJg_oesmzFZMGdkknsVtcFC4Dqjjf3YMXcRaLaaK5MH1A3Cm_89lEtZbtCywJYcctczf91N8UlWJbWFo5I3E9uyzNmHgYocJ3_2J2-qm7pkM__YRZttAYCEaBn_-zwOBo7EP4I5YaGiPtd5AiD5erAi.mp4?pkey\u003dAAXJcsoI3Qq7e5pzg1eFrMdrdMa0bmtb4ebQebNNWaQWph4xxylfwObEJ6uLUA3s8GHP-JZUFjxldH7z4HpFSukptYu8laYmBfGQCbhw8kUnKvpKaZA-FCLRJ9CawoL_1PI\u0026tag\u003d1-1651537402-unknown-1-rtn8eqtsjv-ed45e7364017d426\u0026type\u003dhot\u0026clientCacheKey\u003d3xh4b5nm6x34sas_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 750,
+                "avgBitrate": 802,
+                "width": 576,
+                "height": 1024,
+                "frameRate": 25.0,
+                "quality": 1.4,
+                "qualityType": "576p",
+                "qualityLabel": "标清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "2243ab3b75513688/hd18",
+                "hdrType": 0,
+                "fileSize": 5975135,
+                "bitratePattern": [
+                  947,
+                  783,
+                  1044,
+                  206,
+                  136
+                ]
+              },
+              {
+                "id": 2,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/Mx6aNPmDExJ3GcfH55R8-zTloJu_c3kBxIzWGbdYRHqr41c_z0FMTHlHYMl3CrVK_5iifRic4LXMDrLKHS0B9Rl1d_4Kuuh2-dRQPwreW43lVkHmdGPdhK_wwjdNEJBfPDxfNcfB3ibvbw6aUd4XklcE_eV0mEyCNKpTGba_Uwpcdy6U-JDXFqBLDzgj4tMR.mp4?tag\u003d1-1651537402-unknown-0-si7h8jg3rj-712ffd0d533f0e24\u0026type\u003dhot\u0026clientCacheKey\u003d3xh4b5nm6x34sas_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/Mx6aNPmDExJ3GcfH55R8-zTloJu_c3kBxIzWGbdYRHqr41c_z0FMTHlHYMl3CrVK_5iifRic4LXMDrLKHS0B9Rl1d_4Kuuh2-dRQPwreW43lVkHmdGPdhK_wwjdNEJBfPDxfNcfB3ibvbw6aUd4XklcE_eV0mEyCNKpTGba_Uwpcdy6U-JDXFqBLDzgj4tMR.mp4?pkey\u003dAAVAse2JA3jUQhskcJLtKBfrmsnB5lIM8vdaWfHEC4AArEwyv7ri3LzXsgqcgeSTKYRTI013-qsEVzO8YoiSD9Jc-K7-c2xeke9rnpmSoSnP7c3wUvAk_-oE3HwZKhrJj_c\u0026tag\u003d1-1651537402-unknown-1-4nvxxhb1su-2c4c59e5125f7213\u0026type\u003dhot\u0026clientCacheKey\u003d3xh4b5nm6x34sas_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 400,
+                "avgBitrate": 455,
+                "width": 540,
+                "height": 960,
+                "frameRate": 25.0,
+                "quality": 1.2,
+                "qualityType": "480p",
+                "qualityLabel": "流畅",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "2243ab3b75513688/hd19",
+                "hdrType": 0,
+                "fileSize": 3388897,
+                "bitratePattern": [
+                  555,
+                  446,
+                  602,
+                  219,
+                  79
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.2328404039144516,
+          "blockyProbability": 0.5041195154190063,
+          "avgEntropy": 13.521695000784737,
+          "mosScore": 0.6984704732894897
+        }
+      },
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651537402582,
+      "time": "2022-05-03 08:23:22",
+      "isShareCountExp": false,
+      "unlike_count": 0,
+      "view_count": 4767241,
+      "photo_status": 0,
+      "like_count": 0,
+      "forward_count": 0,
+      "share_count": 170,
+      "caption": "全新国风休闲经营游戏上线，好玩有趣还能领红包！",
+      "photo_id": 5230368089720724766,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0,
+        "topRatio": 0.00104,
+        "widthRatio": 0.99351,
+        "heightRatio": 0.99375
+      },
+      "following": 0,
+      "verified": false,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "tx6.a.kwimgs.com",
+          "url": "http://tx6.a.kwimgs.com/uhead/AB/2022/04/20/15/BMjAyMjA0MjAxNTEzMThfMjgxNzUyNzI3N18zX2hkNTEwXzgzMg\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2022/04/20/15/BMjAyMjA0MjAxNTEzMThfMjgxNzUyNzI3N18zX2hkNTEwXzgzMg\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "省钱小妙招",
+      "ad": {
+        "creativeId": 22672502181,
+        "chargeInfo": "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\u003d\u003d",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://toufang.shinet.cn/app/yyrs/kssxhxwyyrsktdt/kssxhxwyyrsktdt.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://ocpc-api.shinet.cn/dispense/kuaishou/click?dsp\u003dkuaishou\u0026imeiMd5\u003d__IMEI2__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bk6oNZGw5SVKgrAeZMXGk16lflnqilKZd82VP2gPMyRfKq3d9r1AYTsVDiNI2DBCyYQ4jUhD9DOVGaEr-3vbnOykTKXfHqdVBx1onBxOQVx4xpB2eYOiStoRgUwppx40TWMcZsasYzXHVkLcDisNYx\u0026campaignid\u003d785366462\u0026oaid\u003d__OAID__\u0026oaid2\u003d__OAID2__\u0026mac\u003d__MAC3__\u0026aid\u003d1428863324\u0026cid\u003d22672502181\u0026did\u003d785366462\u0026androidId\u003d__ANDROIDID2__\u0026product\u003dyyrs\u0026account_id\u003d13137697\u0026os\u003dandroid",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg"
+            }
+          ],
+          "width": 360,
+          "height": 640
+        },
+        "packageName": "com.wj.yyrs",
+        "appName": "悠悠人生.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"8_1_103_0\",\"6_1_120_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "d8c100",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4466880888,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 11101001,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "d8c100",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "ab9ab8d6ae7c0033161011145a634906",
+              "911da231699663ab0d7cab1993241d7b",
+              "10386229exceptionMd5",
+              "5ba918d0dccaae3af7c1e929161a3119",
+              "f178b08385699da24345841bf7c12408"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg",
+            "productName": "悠悠人生"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "d8c100",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"悠悠人生\",\"appVersion\":\"1.0.6\",\"packageSize\":80827104,\"updateTime\":1647329459432,\"developer\":\"天津耀昆奇迹网络技术有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.ACCESS_COARSE_LOCATION\",\"permissionDetail\":\"允许程序通过WiFi或移动基站的方式获取用户粗略位置信息\"},{\"permissionName\":\"android.permission.READ_CALENDAR\",\"permissionDetail\":\"允许程序读取用户的日程信息\"},{\"permissionName\":\"android.permission.WRITE_CALENDAR\",\"permissionDetail\":\"允许程序写入日程，但不可读取\"},{\"permissionName\":\"android.permission.WRITE_SETTINGS\",\"permissionDetail\":\"允许程序更改系统设置\"},{\"permissionName\":\"android.permission.ACCESS_FINE_LOCATION\",\"permissionDetail\":\"允许程序通过GPS芯片接收卫星的定位信息\"},{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"},{\"permissionName\":\"android.permission.RECORD_AUDIO\",\"permissionDetail\":\"允许程序录制声音通过手机或耳机的麦克\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.CALL_PHONE\",\"permissionDetail\":\"允许程序从非系统拨号器里拨打电话\"}],\"privacyPolicyUrl\":\"https://qmyhhtml.shinet.cn/yyrs_privacy.html\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "rewardEndInfo": {
+              "actionTitle": "再看一个",
+              "enableShowAgainView": true,
+              "extParams": null,
+              "hightLightTitle": "500",
+              "iconUrl": "https://static.yximgs.com/udata/pkg/ad-res/ad_award_coin_dialog_bg.b44569c6.png",
+              "rewardValue": 500,
+              "subTitle": "继续观看视频最高得500金币",
+              "title": "恭喜你已获得奖励"
+            },
+            "supportLiveReservation": false
+          },
+          "inspirePersonalize": {
+            "awardPersonalized": true,
+            "awardValue": "101"
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 悠悠人生",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 模拟经营广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71190842026",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71190842026",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "d8c100",
+            "actionBarDesc": "全新国风休闲经营游戏上线，好玩有趣还能领红包！",
+            "actionBarTagColor": "b9a500",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg",
+            "appName": "悠悠人生",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg",
+            "productName": "悠悠人生",
+            "secondIndustryName": "模拟经营",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "d8c100",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "a49300"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "54",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "悠悠人生",
+              "appVersion": "1.0.6",
+              "packageSize": 80827104,
+              "updateTime": 1647329459432,
+              "developer": "天津耀昆奇迹网络技术有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：悠悠人生；版本号：1.0.6；应用大小：77.0M；开发者：天津耀昆奇迹网络技术有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://qmyhhtml.shinet.cn/yyrs_privacy.html"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"全新国风休闲经营游戏上线，好玩有趣还能领红包！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg\",\"title\":\"悠悠人生\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCC73D\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"全新国风休闲经营游戏上线，好玩有趣还能领红包！\",\"bannerTitle\":\"近一周1.2万人已下载\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCC73D\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/f92c8b4300e940f88a0e68cfc0b6e443.jpg\",\"title\":\"悠悠人生\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"近一周1.2万人已下载\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "全新国风休闲经营游戏上线，好玩有趣还能领红包！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+              "templateVersion": "1.2.0",
+              "templateVersionCode": 120,
+              "templateMd5": "a2fe136807556b88d818d76ba02fd3ee"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "shareGuide": {
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4,
+        "photoShareGuide": false,
+        "playTimes": 1
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2005109324464578353_hd0"
+      },
+      "share_info": "userId\u003d3xyntsnq9c44gd2\u0026photoId\u003d3xh4b5nm6x34sas",
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "type": 1,
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 59560
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/04/04/11/BMjAyMjA0MDQxMTQ2NDdfMjgxNzUyNzI3N183MTE5MDg0MjAyNl8wXzM\u003d_b_B69d67f1d07945e18395f8397583e801e.mp4?tag\u003d1-1651536330-unknown-0-bgr1oa4nhx-c6e260db304a755b\u0026clientCacheKey\u003d3xh4b5nm6x34sas_b.mp4\u0026tt\u003db\u0026di\u003d70338b0d\u0026bp\u003d13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_a071779b3f034e899bbae4fea3a03b53.kpg"
+        }
+      ],
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/04/04/11/BMjAyMjA0MDQxMTQ2NDdfMjgxNzUyNzI3N183MTE5MDg0MjAyNl8wXzM\u003d_b_B69d67f1d07945e18395f8397583e801e.mp4?tag\u003d1-1651536330-unknown-0-bgr1oa4nhx-c6e260db304a755b\u0026clientCacheKey\u003d3xh4b5nm6x34sas_b.mp4\u0026tt\u003db\u0026di\u003d70338b0d\u0026bp\u003d13291",
+      "serverExpTag": "feed_photo|5230368089720724766|2817527277|1_u/2005109324464578353_hd0",
+      "exp_tag": "1_u/2005109324464578353_hd0",
+      "override_cover_size": {
+        "width": 360,
+        "height": 640
+      },
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2817527277,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUxMDkzMjQ0NjQ1NzgzNTN8cGhvdG86NTIzMDM2ODA4OTcyMDcyNDc2Nnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2005069607089003201,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 100013629,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9ZYJ4T7IVe1mqEBsO5jzk2WJXdXW_-vXtrdp1bHXDDdKzPvp8JLzyQDLv7zfmme3z92suZjmZ0wOidIXiQCSxCTouJu5rRV9M82YfpaEffqXJKwcv2W_yo0Ex3xVJaaUWPGoF8Sp9logpgSv7_OUvuE",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://d.humaiyouxi.com/d/RpL2yR/jzks_101_347.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22838074403,
+            "accountId": 12389507,
+            "adSourceType": 1,
+            "adDescription": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 62,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "appName": "地藏弑神录.apk",
+            "appPackageName": "com.jzyx.dzsslhbb",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 796793478,
+            "unitId": 1465961946,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "0426-男+安10-01",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "地藏弑神录",
+            "enableCloseAd": true,
+            "adActionBarColor": "e56800",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://alimov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651536438-unknown-0-6zqbrgkcxx-c3acac7d6bc696f6\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d753d7121\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5240782663477751762,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2575731775,
+            "userName": "星黛璐璐",
+            "accountId": 12389507,
+            "userGender": "F",
+            "portraitUrl": "https://p4.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+          },
+          "liveStartTime": 0,
+          "reservationId": ""
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "time": "2022-05-03 08:25:28",
+      "timestamp": 1651537528337,
+      "caption": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+      "view_count": 384526,
+      "photo_status": 0,
+      "like_count": 0,
+      "forward_count": 0,
+      "share_count": 26,
+      "unlike_count": 0,
+      "photo_id": 5240782663477751762,
+      "isShareCountExp": false,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "comment_count": 0,
+      "slideCommentEntryDisabled": false,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0,
+        "topRatio": 7.8125E-4,
+        "widthRatio": 0.9986111,
+        "heightRatio": 0.82734376
+      },
+      "ad": {
+        "creativeId": 22838074403,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://d.humaiyouxi.com/d/RpL2yR/jzks_101_347.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "packageName": "com.jzyx.dzsslhbb",
+        "appName": "地藏弑神录.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"3_11_137_0\",\"2_11_114_0\",\"8_1_103_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "e56800",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4571174813,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 100013629,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "e56800",
+            "actionBarLoadTime": 4000,
+            "actionBarLocation": 0,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 6000,
+            "templateId": "adtk-action-bar-ad-v11",
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCardTemplateInfo": {
+            "animationStyle": 2,
+            "templateId": "adtk-card-ad-v3",
+            "useTemplate": true
+          },
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "c42d99de823aaa645fe9ca22109ce5ce",
+              "2c6c6de2cba23bfcc49848fe3d534a33"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "productName": "地藏弑神录"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "e56800",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "extraDisplayInfo": {},
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://tx2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"地藏弑神录\",\"appVersion\":\"2.8.2\",\"packageSize\":400998339,\"updateTime\":1650620086896,\"developer\":\"广州天域互动网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.RECORD_AUDIO\",\"permissionDetail\":\"允许程序录制声音通过手机或耳机的麦克\"},{\"permissionName\":\"android.permission.WRITE_SETTINGS\",\"permissionDetail\":\"允许程序更改系统设置\"},{\"permissionName\":\"android.permission.ACCESS_FINE_LOCATION\",\"permissionDetail\":\"允许程序通过GPS芯片接收卫星的定位信息\"},{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"}],\"privacyPolicyUrl\":\"https://h5sdk.hainanjiuzi.com/privacy/policy\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 地藏弑神录",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 角色扮演广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71165512551",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71165512551",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "e56800",
+            "actionBarDesc": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+            "actionBarTagColor": "c65a00",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "appName": "地藏弑神录",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "productName": "地藏弑神录",
+            "secondIndustryName": "角色扮演",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "e56800",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "b15000"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "4684",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "地藏弑神录",
+              "appVersion": "2.8.2",
+              "packageSize": 400998339,
+              "updateTime": 1650620086896,
+              "developer": "广州天域互动网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：地藏弑神录；版本号：2.8.2；应用大小：382.0M；开发者：广州天域互动网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://h5sdk.hainanjiuzi.com/privacy/policy"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg\",\"title\":\"地藏弑神录\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E6C345\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "actionBarType": 11,
+              "data": "{\"buttonHeight\":36,\"appName\":\"地藏弑神录\",\"description\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"actionBarBgColor\":\"E6C345\",\"actionBar\":\"立即下载\",\"hideActionBarLoad\":false,\"downloadActionBarType\":1}",
+              "displayLocation": 1,
+              "resourceType": 11,
+              "styleType": 3,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateShowTime": 0
+            },
+            {
+              "cardType": 11,
+              "data": "{\"subTitle\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E6C345\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg\",\"title\":\"地藏弑神录\"}",
+              "displayLocation": 0,
+              "resourceType": 11,
+              "styleType": 2,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-card-ad-v3",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+              "templateVersion": "1.3.7",
+              "templateVersionCode": 137,
+              "templateMd5": "f9f601f35780e17e028a0fb14a293b87"
+            },
+            {
+              "templateId": "adtk-card-ad-v3",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-ad-v3.114.js",
+              "templateVersion": "1.1.4",
+              "templateVersionCode": 114,
+              "templateMd5": "98346d7c166f0c3fac364eb5236c08be"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "shareGuide": {
+        "photoShareGuide": false,
+        "playTimes": 1,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId\u003d3x39cfn535t8qs2\u0026photoId\u003d3x5iv9qr7nr5igw",
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2005069607089003201_hd0"
+      },
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "following": 0,
+      "verified": false,
+      "user_sex": "F",
+      "headurls": [
+        {
+          "cdn": "p5.a.yximgs.com",
+          "url": "http://p5.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "星黛璐璐",
+      "type": 1,
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 60,
+        "video": 61500
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://alimov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651536438-unknown-0-6zqbrgkcxx-c3acac7d6bc696f6\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d753d7121\u0026bp\u003d13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "main_mv_url": "https://alimov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651536438-unknown-0-6zqbrgkcxx-c3acac7d6bc696f6\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d753d7121\u0026bp\u003d13291",
+      "exp_tag": "1_u/2005069607089003201_hd0",
+      "serverExpTag": "feed_photo|5240782663477751762|2575731775|1_u/2005069607089003201_hd0",
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2575731775,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUwNjk2MDcwODkwMDMyMDF8cGhvdG86NTI0MDc4MjY2MzQ3Nzc1MTc2Mnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2005112083954119953,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 100013630,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9ZYJ4T7IVe1mqEBsO5jzk2WJXdXW_-vXtrdp1bHXDDdK5mnmVR3SBfPjEcxN8u_sS9cYIlgKOTicba-Tf1Rg2eixHujjzw7K3leLn96nf81bwFTzHc1s7yzTRggQZovXMCRiK99Lh2ARuTb06FPw7VE",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://d.humaiyouxi.com/d/RpL2yR/jzks_101_347.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22838074403,
+            "accountId": 12389507,
+            "adSourceType": 1,
+            "adDescription": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 62,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "appName": "地藏弑神录.apk",
+            "appPackageName": "com.jzyx.dzsslhbb",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 796793478,
+            "unitId": 1465961946,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "0426-男+安10-01",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "地藏弑神录",
+            "enableCloseAd": true,
+            "adActionBarColor": "e56800",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651537564-unknown-0-bx7yg7lqrv-816d3d5f071e5f9e\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5240782663477751762,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2575731775,
+            "userName": "星黛璐璐",
+            "accountId": 12389507,
+            "userGender": "F",
+            "portraitUrl": "https://p3.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651537564375,
+      "time": "2022-05-03 08:26:04",
+      "isShareCountExp": false,
+      "caption": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+      "share_count": 26,
+      "unlike_count": 0,
+      "photo_id": 5240782663477751762,
+      "view_count": 392334,
+      "photo_status": 0,
+      "like_count": 0,
+      "forward_count": 0,
+      "shareGuide": {
+        "photoShareGuide": false,
+        "playTimes": 1,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2005112083954119953_hd0"
+      },
+      "share_info": "userId\u003d3x39cfn535t8qs2\u0026photoId\u003d3x5iv9qr7nr5igw",
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0,
+        "topRatio": 7.8125E-4,
+        "widthRatio": 0.9986111,
+        "heightRatio": 0.82734376
+      },
+      "following": 0,
+      "verified": false,
+      "user_sex": "F",
+      "headurls": [
+        {
+          "cdn": "p5.a.yximgs.com",
+          "url": "http://p5.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2021/09/30/14/BMjAyMTA5MzAxNDQzMjJfMjU3NTczMTc3NV8zX2hkNzUwXzQwNA\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "星黛璐璐",
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "ad": {
+        "creativeId": 22838074403,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://d.humaiyouxi.com/d/RpL2yR/jzks_101_347.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "packageName": "com.jzyx.dzsslhbb",
+        "appName": "地藏弑神录.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"8_1_103_0\",\"2_11_114_0\",\"3_11_137_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "e56800",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4571174813,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 100013630,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "e56800",
+            "actionBarLoadTime": 4000,
+            "actionBarLocation": 0,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 6000,
+            "templateId": "adtk-action-bar-ad-v11",
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCardTemplateInfo": {
+            "animationStyle": 2,
+            "templateId": "adtk-card-ad-v3",
+            "useTemplate": true
+          },
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "c42d99de823aaa645fe9ca22109ce5ce",
+              "2c6c6de2cba23bfcc49848fe3d534a33"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "productName": "地藏弑神录"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "e56800",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "extraDisplayInfo": {},
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://tx2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"地藏弑神录\",\"appVersion\":\"2.8.2\",\"packageSize\":400998339,\"updateTime\":1650620086896,\"developer\":\"广州天域互动网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.RECORD_AUDIO\",\"permissionDetail\":\"允许程序录制声音通过手机或耳机的麦克\"},{\"permissionName\":\"android.permission.WRITE_SETTINGS\",\"permissionDetail\":\"允许程序更改系统设置\"},{\"permissionName\":\"android.permission.ACCESS_FINE_LOCATION\",\"permissionDetail\":\"允许程序通过GPS芯片接收卫星的定位信息\"},{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"}],\"privacyPolicyUrl\":\"https://h5sdk.hainanjiuzi.com/privacy/policy\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 地藏弑神录",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 角色扮演广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71165512551",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d71165512551",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "e56800",
+            "actionBarDesc": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+            "actionBarTagColor": "c65a00",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "appName": "地藏弑神录",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg",
+            "productName": "地藏弑神录",
+            "secondIndustryName": "角色扮演",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "e56800",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "b15000"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "4685",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "地藏弑神录",
+              "appVersion": "2.8.2",
+              "packageSize": 400998339,
+              "updateTime": 1650620086896,
+              "developer": "广州天域互动网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：地藏弑神录；版本号：2.8.2；应用大小：382.0M；开发者：广州天域互动网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://h5sdk.hainanjiuzi.com/privacy/policy"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg\",\"title\":\"地藏弑神录\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E6C345\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "actionBarType": 11,
+              "data": "{\"buttonHeight\":36,\"appName\":\"地藏弑神录\",\"description\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"actionBarBgColor\":\"E6C345\",\"actionBar\":\"立即下载\",\"hideActionBarLoad\":false,\"downloadActionBarType\":1}",
+              "displayLocation": 1,
+              "resourceType": 11,
+              "styleType": 3,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateShowTime": 0
+            },
+            {
+              "cardType": 11,
+              "data": "{\"subTitle\":\"这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！\",\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"E6C345\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/d6234705c0c14c6f81ab71f742bd712b.jpg\",\"title\":\"地藏弑神录\"}",
+              "displayLocation": 0,
+              "resourceType": 11,
+              "styleType": 2,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-card-ad-v3",
+              "templateShowTime": 0
+            }
+          ],
+          "webviewType": 0
+        },
+        "adDescription": "这才是真仙侠！10倍爆率，装备全靠打，不充钱也能玩的爽！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+              "templateVersion": "1.3.7",
+              "templateVersionCode": 137,
+              "templateMd5": "f9f601f35780e17e028a0fb14a293b87"
+            },
+            {
+              "templateId": "adtk-card-ad-v3",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-ad-v3.114.js",
+              "templateVersion": "1.1.4",
+              "templateVersionCode": 114,
+              "templateMd5": "98346d7c166f0c3fac364eb5236c08be"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "type": 1,
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651537564-unknown-0-bx7yg7lqrv-816d3d5f071e5f9e\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/04/04/00/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_b_B10bd132bdca837d90eece1e754b6afa6.mp4?tag\u003d1-1651537564-unknown-0-bx7yg7lqrv-816d3d5f071e5f9e\u0026clientCacheKey\u003d3x5iv9qr7nr5igw_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 60,
+        "video": 61500
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MDQwMDAzNDlfMjU3NTczMTc3NV83MTE2NTUxMjU1MV8wXzM\u003d_ff_B523645d9c79fb3e9fa270800eac0b88a.kpg",
+      "exp_tag": "1_u/2005112083954119953_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2575731775,
+      "serverExpTag": "feed_photo|5240782663477751762|2575731775|1_u/2005112083954119953_hd0",
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUxMTIwODM5NTQxMTk5NTN8cGhvdG86NTI0MDc4MjY2MzQ3Nzc1MTc2Mnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2005134065707531681,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 100013630,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://click.yingzhongshare.com/commerce_monitor_link_service/click/common?os\u003d2\u0026androidid\u003d__ANDROIDID2__\u0026cid\u003d22718092328\u0026clickTime\u003d__TS__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bV5gAUrWYw3_oSUdZXjcXXBKJIVuuqyajPyNpqV4fLtwH7WJItxy3QUGpmN3XZ3W71K6Irjm5Ruv_U9Ead3Trw_9EnIrSenp2pYXbNIGaHfsHoKNvPFkmfGOPmDoSEJWQhffCADEHo4oO-ll5RZ_YQ\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026mac\u003d__MAC2__\u0026ip\u003d58.219.216.100\u0026ua\u003d__UA__\u0026adId\u003d1453032867\u0026unitId\u003d798555245\u0026channelName\u003dkuaishou\u0026account_id\u003d13071445\u0026notifyType\u003d1\u0026prdid\u003d580008\u0026channel\u003d6119462"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bV5gAUrWYw3_oSUdZXjcXXBKJIVuuqyajPyNpqV4fLtwH7WJItxy3QUGpmN3XZ3W71K6Irjm5Ruv_U9Ead3Trw_9EnIrSenp2pYXbNIGaHfsHoKNvPFkmfGOPmDoSEJWQhffCADEHo4oO-ll5RZ_YQ",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://apk.whaleunique.com/joyfulvideo/main-joyfulvideo-release-17.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22718092328,
+            "accountId": 13071445,
+            "adSourceType": 1,
+            "adDescription": "躺着就能赚零花钱？？？一般人我都不告诉他!",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 27,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png",
+            "appName": "畅看短视频.apk",
+            "appPackageName": "com.deerplay.joyfulvideo",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 798555245,
+            "unitId": 1453032867,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "MaURylEZPUzgo55HQ3hii48NZdFdH1N9bGsL0tFgOmg3K0RT6G1ZFBdWpwkk0FYFoJAjk5rQtWzIYwOXIsPJxA16/oAWiCX0+1kOAS8Q3nu4Lkr3biCglRvkiwWe+Y2HVVE7kSY1+WNlghhTiPQdPmKiDCgOOo7K6vD71Ej15+LIFLvnj88bUVyqHP/BY0gv6d6Jlei+eQy8G1JWXEv/oERkwh+WPsGwEadaNSj44RBpSwuvcvjzrYhXM8byJq6NdKSf182ZglvZi3VA7aIZ+LMXerd7R+t4fl0OsTuQBOHBkv/MH7HtO2zOqgDUpW4S+z5L1cXlrfG2+rb0domDmmd/1cSIH+iTSntTksycJMfClnPqMq4O+Ndd72Pcq5oV4B5RwqfidPXvxa9k3mTzRlDtrv9lLQYS5aKm6I5h+UmsBnlNgfq02zUuFttgYLZervEmx7BINnQOdTTtt0nRWRVReIOIpX46V/zfMv7ObnnnX6ZooTLb+WF+KM7ZnUJKKpKJCnpFrZOO44rgbrBV7xBUskoRlEvjCVsQMc35uNMBfl3/liSLcnd/I43yoGpJyAl5zA3J8Gz/vj/QNWttfcnWisX1yyE8jnfFRSeU27YDJJS+OeXILC8SpZlnFxqqFuqwwxZlkFTvyi2bhKYL7TnLoQgW9dRCH8BSUT90bUMyx7nSzI3l9J7jJkU4uHISdHiu1Oc6kEP1Omh78wV1OeWUWfbgS89o7kS+zCxHruTP3DBODohufjRKCuN6KX8o+pGbsuWeJFJhZVWaf+zk+3rz/1IooP1ungRRGyqqHM35XNU8jpcswwx1hxc3qfizhhfFCwSbmJVCuoEWIKz0bx3YB/3twYE3t2fr/xgNARIrQhV8pE6ONhPE5p0gIUrXo1XWNGVApU+cUBsxYbsrxGw+elg4w3u4DPXpbMiByLieLMgxNAgavVCMJmHc6BDLyRrguvDPgH3WpsDRYjGHLiu1y78NT/eKi1EHPa7YLGvRfSMtr/JcUQgs+tzTVuiMWDRAXOOAYyHcfVyi8Q0l82MZJHTFnnPb4j5qFyzu8JVXLmFQPDyjO4Wj/0pnsDLmLy5t84pjkpaRTltTuUUerm4jketzyp+faBi0F3PuY5g8TffMGLmEcUY9iKIZb0abGs+q9Mb/FWZaoumLMMfIQAgjULjH9hpRJXZvNoPyXK/dxY730QgZAdnk7T+anfpeuahNwonrEOoKMou8uWXpIzRZyEHEVZ8o8ESqNjSZyZ1g3NzsGdfzvFEVQ6x75ZMhtqIU3Y/Cv9OjylR4K9wE/CL3/11fs0B/aGuo8yzWQFxhMzty1QURjs0IXdruZgDa2AYM7mZ9TpsvrmKhUfN+cpTil7FxO++Fcg7ibyUy0qhohlzgjTparqLJTxxRM9Zb+PpHAaGgN8hQ+rlKizokE6rL9+N7yQuo6gkDMqcgQxolukVyYue5qAimlb/Yl2l7AIpgRb+3jEp4Erxw1XXH7C5L9xXvZfsb0jc20sJ6TrelxFafZnIu7nw6t4RqiEkg5fNKerl/YjovBZwp7S3+0td97aHYU9/iDo3oG4UuW43fj04M3y2rdU30kbZfQy0s2McuWp+s7wyLEoHzrxHcNV2+YUpoKeZDvU3VVRF12pQCs9STHtjfLrL5LDKz3ifubhDW+scIjjnoe6/bwSfvN7E4x3QDUWC9aWGjxv3VUXH4niZi9aAJZ9b7cxFACHr71t2C/FaE9dnQEBvseaCUf+SYYDhPEykxk1+/I62I/hJHSqSqkQcMW8NaLV1G8BeYSOSYfY/kEF/6WXSZHEJSKycTUjOtpIeAEjCotYtFwiVg71tS6Nv9XRORdc3XFbOQGbsh5cXZtpz6mUYBrI8kBqx0/IWp4kwpl7r9jH7jRmk2AEoo83vmAX+VXT7aOohtIYuX/oBkFg39qhkOVC5w20dK9pXyG8FbyQSRybLg0hiirwd57CshpaAZwj6FjjY5wnSmC9xX+oQCUYlBnVrbv31S4I/oXWTran8OcRX3aYPRh2FgCrZpUGGpFO4/sj2rtwry5JpSI4p3gt1mib6+cGroNMOjPYy38TXW/e49kgrKRUCr7YCdKQgyz5vZo01qhGbGEQFe32CBcd5PE16LRNaSACJ9nZOWeih4HoLWryFS4mFG1c76Q63lsksgcDNKZyXMfTAOiaIMQ4yUnPxlg5TetiG3YwCGXC9AGx0UOQlMktQQqp5zxhL8Fb7B6puGzEjHii9s/AhjK4R47X1vSQ4iP9JKNdkSEdc+r0hHv0Skhl5lZPPh0pEZtYgV1fm+9SINKz9V5mYLBXQR9WmM59y3oKB7z4pi1xneZ4ZDGJatIvgpKS7+EkNBgwPQXu0saDed9142vxcCKoy5kpnI8OW0uJlP/+HGiY4MQ1vV1wBT+mgcrE4a7C6vwiHqGSYJHyvSm773QUMRTUYxtW5F4T2SC1SkQaMWexMQe1ATYZq1k9Ftqxnesn1X0FURd1HiZYxf7jTPu+ilPSOPwRZJYZ3hrNK/IMYs/Li1A+fjbGE\u003d",
+            "campaignName": "6119462-混搭素材-上下滑+激励-0427",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "畅看短视频",
+            "enableCloseAd": true,
+            "adActionBarColor": "7e44e5",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://alimov2.a.kwimgs.com/upic/2022/03/09/15/BMjAyMjAzMDkxNTU3NTJfMjgxMjMxODMzNF82OTI0NjA1NTc3M18wXzM\u003d_b_Bda8f67569ed2c09e9e7b20f73f83566c.mp4?tag\u003d1-1651537612-unknown-0-wg4tac8czr-07bb57face874396\u0026clientCacheKey\u003d3x8deygysc45zhu_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5224175640464604061,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2812318334,
+            "userName": "新年回馈，答题赚米哦",
+            "accountId": 13071445,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2022/03/09/17/BMjAyMjAzMDkxNzAxNTVfMjgxMjMxODMzNF8zX2hkNDA2XzkxMA\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "22430c98725b0c0c",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 26700,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/TQcPkOHV5nM7DFv7CypHaIpgO_TMUbHuCcCbpzwvXeC4J4UsxbPanQ3Ku3tQBgg3Fc5iYAxwtj4D8vvwMgZz-xNr7cfj8NLcc1uArKzIfcogOiBNi1gFxP-piIGIqRrjBzxgQbfb9m-R6g9ztluoN2Qr7lAy3Q4Lgkg169O5zQSmKbsFR26py8O-e8HXUueq.mp4?tag\u003d1-1651537612-unknown-0-zozmh5ek29-d3132a715166c54f\u0026type\u003dhot\u0026clientCacheKey\u003d3x8deygysc45zhu_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/TQcPkOHV5nM7DFv7CypHaIpgO_TMUbHuCcCbpzwvXeC4J4UsxbPanQ3Ku3tQBgg3Fc5iYAxwtj4D8vvwMgZz-xNr7cfj8NLcc1uArKzIfcogOiBNi1gFxP-piIGIqRrjBzxgQbfb9m-R6g9ztluoN2Qr7lAy3Q4Lgkg169O5zQSmKbsFR26py8O-e8HXUueq.mp4?pkey\u003dAAXARFZOWrXKfOvBzzwXXiX1VqhDbcSUNZgQpGMWWHR_OmBgZOgxStUABlR1KLY8ebHGG1EGLSbmwq0kFig13TeZ2tl8eKhTKB36gbnv-ahn8z_9GtRrIsocFM2_Z6MNxyg\u0026tag\u003d1-1651537612-unknown-1-dkifylgrws-41e3bd016eb93eb9\u0026type\u003dhot\u0026clientCacheKey\u003d3x8deygysc45zhu_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 750,
+                "avgBitrate": 702,
+                "width": 576,
+                "height": 1024,
+                "frameRate": 30.0,
+                "quality": 1.4,
+                "qualityType": "576p",
+                "qualityLabel": "标清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "22430c98725b0c0c/hd18",
+                "hdrType": 0,
+                "fileSize": 2345048,
+                "bitratePattern": [
+                  992,
+                  688,
+                  992,
+                  123,
+                  232
+                ]
+              },
+              {
+                "id": 2,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/KRcfYw6P_zBYC7UWZZzjV25u8Gyc4XjYJbzrA_Dzinhh12_owr_bm3Hz9fkVB2lMv5PYwLSuoN889c6ZfR6ZBdnZLktfYflpR2xojkuHqIiITH1atenz9iCFCi-g8LDfm_CL8WGGCx_UtTgSAw8WiseGz8GLUmp4ebFsMeP3JcSH5qUlLXJKBnjtQR5o59Wf.mp4?tag\u003d1-1651537612-unknown-0-durlq6jyc0-1ee5d906e39924f2\u0026type\u003dhot\u0026clientCacheKey\u003d3x8deygysc45zhu_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/KRcfYw6P_zBYC7UWZZzjV25u8Gyc4XjYJbzrA_Dzinhh12_owr_bm3Hz9fkVB2lMv5PYwLSuoN889c6ZfR6ZBdnZLktfYflpR2xojkuHqIiITH1atenz9iCFCi-g8LDfm_CL8WGGCx_UtTgSAw8WiseGz8GLUmp4ebFsMeP3JcSH5qUlLXJKBnjtQR5o59Wf.mp4?pkey\u003dAAWwfh7zXefSHEmYsGcdsROtsrMuD9NRHTVMq115CTjSogqvT5dj6vh_oSqc03JQcA6_XV79tZ5-OgnTUMKXB06yVv_kpndvucHNyS1ds1P2YPs35Lomwq9N45rFFPQA8WU\u0026tag\u003d1-1651537612-unknown-1-8wew7b37gr-683aac23bde20b9d\u0026type\u003dhot\u0026clientCacheKey\u003d3x8deygysc45zhu_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 400,
+                "avgBitrate": 443,
+                "width": 540,
+                "height": 960,
+                "frameRate": 30.0,
+                "quality": 1.2,
+                "qualityType": "480p",
+                "qualityLabel": "流畅",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "22430c98725b0c0c/hd19",
+                "hdrType": 0,
+                "fileSize": 1480303,
+                "bitratePattern": [
+                  581,
+                  431,
+                  581,
+                  116,
+                  101
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.14926758408546448,
+          "blockyProbability": 0.4517557919025421,
+          "avgEntropy": 11.679424262046814,
+          "mosScore": 0.7547496557235718
+        }
+      },
+      "comments": [],
+      "photoTextLocationInfo": {
+        "leftRatio": 0.0018518518,
+        "topRatio": 0.01875,
+        "widthRatio": 0.9759259,
+        "heightRatio": 0.96666664
+      },
+      "following": 0,
+      "verified": false,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2022/03/09/17/BMjAyMjAzMDkxNzAxNTVfMjgxMjMxODMzNF8zX2hkNDA2XzkxMA\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2022/03/09/17/BMjAyMjAzMDkxNzAxNTVfMjgxMjMxODMzNF8zX2hkNDA2XzkxMA\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "新年回馈，答题赚米哦",
+      "displayTime": null,
+      "location": {},
+      "timestamp": 1651537612468,
+      "time": "2022-05-03 08:26:52",
+      "isShareCountExp": false,
+      "view_count": 8633959,
+      "photo_status": 0,
+      "like_count": 0,
+      "forward_count": 0,
+      "share_count": 580,
+      "unlike_count": 0,
+      "caption": "躺着就能赚零花钱？？？一般人我都不告诉他!",
+      "photo_id": 5224175640464604061,
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "us_c": 0,
+      "comment_count": 0,
+      "slideCommentEntryDisabled": false,
+      "ad": {
+        "creativeId": 22718092328,
+        "chargeInfo": "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\u003d",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://apk.whaleunique.com/joyfulvideo/main-joyfulvideo-release-17.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://click.yingzhongshare.com/commerce_monitor_link_service/click/common?os\u003d2\u0026androidid\u003d__ANDROIDID2__\u0026cid\u003d22718092328\u0026clickTime\u003d__TS__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9bV5gAUrWYw3_oSUdZXjcXXBKJIVuuqyajPyNpqV4fLt01W3v3ccy8l61fRKbPtbNHNfvx-5Cr7b7zt6PIAwt_JM87StTPjX3wv_qWaHlDrIw226Awg5cI38U7rt_alLipDc3ULbJDVvFc3bKFcgixz\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026mac\u003d__MAC2__\u0026ip\u003d58.219.216.100\u0026ua\u003d__UA__\u0026adId\u003d1453032867\u0026unitId\u003d798555245\u0026channelName\u003dkuaishou\u0026account_id\u003d13071445\u0026notifyType\u003d1\u0026prdid\u003d580008\u0026channel\u003d6119462",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg"
+            }
+          ],
+          "width": 1080,
+          "height": 1920
+        },
+        "packageName": "com.deerplay.joyfulvideo",
+        "appName": "畅看短视频.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"8_1_103_0\",\"6_1_120_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "7e44e5",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4531354688,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 100013630,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "7e44e5",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "f1fd5faffbb93ed27f4aee1d5c72f022",
+              "fcb193c9528bbe53a357b7e7002e65a4",
+              "f5d91cbc4f108e83781f0a03b41dd671",
+              "cb453037bbd659826406a6c157edb27e",
+              "946aeb50935cfeac578af916e48c313b"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png",
+            "productName": "畅看短视频"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "7e44e5",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "commentActionBarTitle": "立即下载",
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "deviceInfo": [
+            ""
+          ],
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"畅看短视频\",\"appVersion\":\"1.4.2\",\"packageSize\":45777519,\"updateTime\":1648518949459,\"developer\":\"广州小迈网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"}],\"privacyPolicyUrl\":\"https://commerce.ibestfanli.com/scenead-frontend/qa/policy?prdid\u003d580008\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 畅看短视频",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 影音娱乐资讯及软件广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d69246055773",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d69246055773",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "7e44e5",
+            "actionBarDesc": "躺着就能赚零花钱？？？一般人我都不告诉他!",
+            "actionBarTagColor": "6b29e1",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png",
+            "appName": "畅看短视频",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png",
+            "productName": "畅看短视频",
+            "secondIndustryName": "影音娱乐资讯及软件",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "7e44e5",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "611ed7"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "4685",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "畅看短视频",
+              "appVersion": "1.4.2",
+              "packageSize": 45777519,
+              "updateTime": 1648518949459,
+              "developer": "广州小迈网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：畅看短视频；版本号：1.4.2；应用大小：43.0M；开发者：广州小迈网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://commerce.ibestfanli.com/scenead-frontend/qa/policy?prdid\u003d580008"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"躺着就能赚零花钱？？？一般人我都不告诉他!\",\"bannerTitle\":\"近一周3.1万人已下载\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"4575E6\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png\",\"title\":\"畅看短视频\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"近一周3.1万人已下载\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            },
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"躺着就能赚零花钱？？？一般人我都不告诉他!\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/27b16249d6dc40aaaa31fce325665cad.png\",\"title\":\"畅看短视频\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"4575E6\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            }
+          ],
+          "useAppMarket": true,
+          "webviewType": 0
+        },
+        "adDescription": "躺着就能赚零花钱？？？一般人我都不告诉他!",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+              "templateVersion": "1.2.0",
+              "templateVersionCode": 120,
+              "templateMd5": "a2fe136807556b88d818d76ba02fd3ee"
+            },
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2005134065707531681_hd0"
+      },
+      "share_info": "userId\u003d3xaf4qqpwpusjim\u0026photoId\u003d3x8deygysc45zhu",
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "type": 1,
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 30,
+        "video": 26700
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg",
+      "main_mv_urls": [
+        {
+          "url": "https://alimov2.a.kwimgs.com/upic/2022/03/09/15/BMjAyMjAzMDkxNTU3NTJfMjgxMjMxODMzNF82OTI0NjA1NTc3M18wXzM\u003d_b_Bda8f67569ed2c09e9e7b20f73f83566c.mp4?tag\u003d1-1651537612-unknown-0-wg4tac8czr-07bb57face874396\u0026clientCacheKey\u003d3x8deygysc45zhu_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6970cacc285e43f5a512de4323d145b3.kpg"
+        }
+      ],
+      "main_mv_url": "https://alimov2.a.kwimgs.com/upic/2022/03/09/15/BMjAyMjAzMDkxNTU3NTJfMjgxMjMxODMzNF82OTI0NjA1NTc3M18wXzM\u003d_b_Bda8f67569ed2c09e9e7b20f73f83566c.mp4?tag\u003d1-1651537612-unknown-0-wg4tac8czr-07bb57face874396\u0026clientCacheKey\u003d3x8deygysc45zhu_b.mp4\u0026tt\u003db\u0026di\u003d3adbd864\u0026bp\u003d13291",
+      "override_cover_size": {
+        "width": 1080,
+        "height": 1920
+      },
+      "serverExpTag": "feed_photo|5224175640464604061|2812318334|1_u/2005134065707531681_hd0",
+      "exp_tag": "1_u/2005134065707531681_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "user_id": 2812318334,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUxMzQwNjU3MDc1MzE2ODF8cGhvdG86NTIyNDE3NTY0MDQ2NDYwNDA2MXx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2005151125098122593,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 100013630,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://click.yingzhongshare.com/commerce_monitor_link_service/click/common?os\u003d2\u0026androidid\u003d__ANDROIDID2__\u0026cid\u003d22819581691\u0026clickTime\u003d__TS__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9Zic023NFNEqtvXci5YdQa-QqLKJfQdcAiIxFKaxQHgrE6obIbLtAtNHpC3ElIsZzHJtFWtTdxEdKwVq0KAlLWv9eB-if2zsI0WQWGhNdjQLZ2Fkz3gwaJqbGo7cME4V21cOcQLPK2sauVsDehKYh2P\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026mac\u003d__MAC2__\u0026ip\u003d58.219.216.100\u0026ua\u003d__UA__\u0026adId\u003d1463813881\u0026unitId\u003d803838294\u0026channelName\u003dkuaishou\u0026account_id\u003d13107104\u0026notifyType\u003d1\u0026prdid\u003d580008\u0026channel\u003d6135582"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9Zic023NFNEqtvXci5YdQa-QqLKJfQdcAiIxFKaxQHgrE6obIbLtAtNHpC3ElIsZzHJtFWtTdxEdKwVq0KAlLWv9eB-if2zsI0WQWGhNdjQLZ2Fkz3gwaJqbGo7cME4V21cOcQLPK2sauVsDehKYh2P",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://apk.whaleunique.com/joyfulvideo/main-joyfulvideo-release-17.apk",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22819581691,
+            "accountId": 13107104,
+            "adSourceType": 1,
+            "adDescription": "老公自从玩了这款软件，再也不跟我要零花钱了！",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 64,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg",
+            "appName": "畅看短视频.apk",
+            "appPackageName": "com.deerplay.joyfulvideo",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 803838294,
+            "unitId": 1463813881,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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",
+            "campaignName": "6135582-鹏景快手关键DI40h12-3c畅看433-0430",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "畅看短视频",
+            "enableCloseAd": true,
+            "adActionBarColor": "e54f00",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/04/30/13/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_b_Bba6324dec96cae772814582fd06b76b5.mp4?tag\u003d1-1651537542-unknown-0-6njumut6ye-eb073857cca05948\u0026clientCacheKey\u003d3xxay6ezhjs68ta_b.mp4\u0026tt\u003db\u0026di\u003ddf4f38fd\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5207568618261932536,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2813059978,
+            "userName": "畅看短视频-刷视频领红包",
+            "accountId": 13107104,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2022/03/14/16/BMjAyMjAzMTQxNjI3MTlfMjgxMzA1OTk3OF8zX2hkMzk4XzQ4MA\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "comments": [],
+      "displayTime": null,
+      "location": {},
+      "time": "2022-05-03 08:30:50",
+      "timestamp": 1651537850938,
+      "caption": "老公自从玩了这款软件，再也不跟我要零花钱了！",
+      "isShareCountExp": false,
+      "share_count": 0,
+      "unlike_count": 0,
+      "photo_id": 5207568618261932536,
+      "view_count": 10260,
+      "photo_status": 0,
+      "like_count": 0,
+      "forward_count": 0,
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2005151125098122593_hd0"
+      },
+      "share_info": "userId\u003d3xbce3zvsumqyw9\u0026photoId\u003d3xxay6ezhjs68ta",
+      "hated": 0,
+      "liked": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.04537,
+        "topRatio": 0.19166,
+        "widthRatio": 0.95092,
+        "heightRatio": 0.79479
+      },
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "verified": false,
+      "following": 0,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "tx6.a.kwimgs.com",
+          "url": "http://tx6.a.kwimgs.com/uhead/AB/2022/03/14/16/BMjAyMjAzMTQxNjI3MTlfMjgxMzA1OTk3OF8zX2hkMzk4XzQ4MA\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2022/03/14/16/BMjAyMjAzMTQxNjI3MTlfMjgxMzA1OTk3OF8zX2hkMzk4XzQ4MA\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "畅看短视频-刷视频领红包",
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "ad": {
+        "creativeId": 22819581691,
+        "chargeInfo": "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",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://apk.whaleunique.com/joyfulvideo/main-joyfulvideo-release-17.apk",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://click.yingzhongshare.com/commerce_monitor_link_service/click/common?os\u003d2\u0026androidid\u003d__ANDROIDID2__\u0026cid\u003d22819581691\u0026clickTime\u003d__TS__\u0026callbackUrl\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9Zic023NFNEqtvXci5YdQa-QqLKJfQdcAiIxFKaxQHgrJulTeWEZ8q5IVth83aJptlxrM6s3L9bDoS5HFPlgCfWhwVkrhFahVkfulUaXnmlI9zKNfyLrPrNpNje_KxmmsJUa6Nw18SB0FskpPC1ssHy\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026mac\u003d__MAC2__\u0026ip\u003d58.219.216.100\u0026ua\u003d__UA__\u0026adId\u003d1463813881\u0026unitId\u003d803838294\u0026channelName\u003dkuaishou\u0026account_id\u003d13107104\u0026notifyType\u003d1\u0026prdid\u003d580008\u0026channel\u003d6135582",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "packageName": "com.deerplay.joyfulvideo",
+        "appName": "畅看短视频.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"3_11_137_0\",\"1_104_0_0\",\"2_11_114_0\",\"8_1_103_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "e54f00",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4564171234,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 100013630,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "e54f00",
+            "actionBarLoadTime": 4000,
+            "actionBarLocation": 0,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 5000,
+            "realShowDelayTime": 6000,
+            "templateId": "adtk-action-bar-ad-v11",
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCardTemplateInfo": {
+            "animationStyle": 2,
+            "templateId": "adtk-card-ad-v3",
+            "useTemplate": true
+          },
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "f1fd5faffbb93ed27f4aee1d5c72f022",
+              "111509a193072f1e4f94b55b4c23cf15",
+              "fcb193c9528bbe53a357b7e7002e65a4",
+              "f5d91cbc4f108e83781f0a03b41dd671",
+              "cb453037bbd659826406a6c157edb27e"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg",
+            "productName": "畅看短视频"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "e54f00",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "commentActionBarTitle": "立即下载",
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "commentEmojiInfo": {
+            "commentMsg": "赞赞赞",
+            "iconList": [
+              "[钱]",
+              "[赞]",
+              "[期待]"
+            ],
+            "iconType": 2
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "deviceInfo": [
+            ""
+          ],
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "extraDisplayInfo": {},
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"https://p2.a.yximgs.com/upic/2022/04/30/13/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.jpg?tag\u003d1-1651304893-unknown-0-edthwhjkl0-c8bf5c9936426157\u0026clientCacheKey\u003d3xxay6ezhjs68ta.jpg\u0026di\u003db7e4392c\u0026bp\u003d10000\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"畅看短视频\",\"appVersion\":\"1.4.2\",\"packageSize\":45777519,\"updateTime\":1648629373045,\"developer\":\"广州小迈网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"}],\"privacyPolicyUrl\":\"https://commerce.ibestfanli.com/scenead-frontend/qa/policy?prdid\u003d580008\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 畅看短视频",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 影音娱乐资讯及软件广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d73246490216",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d73246490216",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "e54f00",
+            "actionBarDesc": "老公自从玩了这款软件，再也不跟我要零花钱了！",
+            "actionBarTagColor": "c64400",
+            "actionBarText": "免费安装",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg",
+            "appName": "畅看短视频",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg",
+            "productName": "畅看短视频",
+            "secondIndustryName": "影音娱乐资讯及软件",
+            "showPlayEndInfo": true,
+            "unitAdvanceCardItemIds": [
+              "4295888115"
+            ]
+          },
+          "playEndInfo": {
+            "actionBarColor": "e54f00",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "b13d00"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "4685",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "畅看短视频",
+              "appVersion": "1.4.2",
+              "packageSize": 45777519,
+              "updateTime": 1648629373045,
+              "developer": "广州小迈网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：畅看短视频；版本号：1.4.2；应用大小：43.0M；开发者：广州小迈网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://commerce.ibestfanli.com/scenead-frontend/qa/policy?prdid\u003d580008"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"老公自从玩了这款软件，再也不跟我要零花钱了！\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg\",\"title\":\"畅看短视频\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCB93D\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "actionBarType": 11,
+              "data": "{\"buttonHeight\":36,\"appName\":\"畅看短视频\",\"description\":\"老公自从玩了这款软件，再也不跟我要零花钱了！\",\"actionBarBgColor\":\"CCB93D\",\"actionBar\":\"立即下载\",\"hideActionBarLoad\":true,\"downloadActionBarType\":1}",
+              "displayLocation": 1,
+              "resourceType": 11,
+              "styleType": 3,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateShowTime": 0
+            },
+            {
+              "cardType": 11,
+              "data": "{\"subTitle\":\"老公自从玩了这款软件，再也不跟我要零花钱了！\",\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCB93D\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/0ec9bf49ac3443faa6c0454800682925.jpg\",\"title\":\"畅看短视频\"}",
+              "displayLocation": 0,
+              "resourceType": 11,
+              "styleType": 2,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-card-ad-v3",
+              "templateShowTime": 0
+            }
+          ],
+          "useAppMarket": true,
+          "webviewType": 0
+        },
+        "adDescription": "老公自从玩了这款软件，再也不跟我要零花钱了！",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-action-bar-ad-v11",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-action-bar-ad-v11.137.js",
+              "templateVersion": "1.3.7",
+              "templateVersionCode": 137,
+              "templateMd5": "f9f601f35780e17e028a0fb14a293b87"
+            },
+            {
+              "templateId": "adtk-card-ad-v3",
+              "templateUrl": "https://js.a.kspkg.com/kos/nlav10814/r_adtk-card-ad-v3.114.js",
+              "templateVersion": "1.1.4",
+              "templateVersionCode": 114,
+              "templateMd5": "98346d7c166f0c3fac364eb5236c08be"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "type": 1,
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/04/30/13/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_b_Bba6324dec96cae772814582fd06b76b5.mp4?tag\u003d1-1651537542-unknown-0-6njumut6ye-eb073857cca05948\u0026clientCacheKey\u003d3xxay6ezhjs68ta_b.mp4\u0026tt\u003db\u0026di\u003ddf4f38fd\u0026bp\u003d13291",
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg"
+        }
+      ],
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/04/30/13/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_b_Bba6324dec96cae772814582fd06b76b5.mp4?tag\u003d1-1651537542-unknown-0-6njumut6ye-eb073857cca05948\u0026clientCacheKey\u003d3xxay6ezhjs68ta_b.mp4\u0026tt\u003db\u0026di\u003ddf4f38fd\u0026bp\u003d13291"
+        }
+      ],
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 63760
+      },
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/BMjAyMjA0MzAxMzA0NThfMjgxMzA1OTk3OF83MzI0NjQ5MDIxNl8wXzM\u003d_B59c9bd2b8ebb2375af58420c17811bd1.kpg",
+      "exp_tag": "1_u/2005151125098122593_hd0",
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "serverExpTag": "feed_photo|5207568618261932536|2813059978|1_u/2005151125098122593_hd0",
+      "user_id": 2813059978,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDUxNTExMjUwOTgxMjI1OTN8cGhvdG86NTIwNzU2ODYxODI2MTkzMjUzNnx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
+},{
+  "llsid": 2001307761963839442,
+  "result": 1,
+  "errorMsg": "OK",
+  "impAdInfo": [
+    {
+      "type": 1,
+      "pageId": 11101,
+      "subPageId": 100013630,
+      "gridPos": 0,
+      "gridUnitId": "1",
+      "adInfo": [
+        {
+          "adTrackInfo": [
+            {
+              "type": 1,
+              "url": [
+                "https://toufang.huixuanjiasu.com/kuai/shou/hyl/notify?callback_url\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9aHhQaXRrQbuD3imxSv_byUMPhs41K-f7RZAf2cc7ArSVncT-W5Eiy_TcnK4gF3lhBL31sRgjzbfi-_4n4cJn01udJGZM72JihFd8e6w7cUXI-QvyO6Q-1lTufowDQRZrrFaQOcW_uVWHJ0IAF2vRqw\u0026adid\u003d1465525092\u0026campaignid\u003d802467729\u0026cid\u003d22834634556\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026androidid\u003d__ANDROIDID2__\u0026mac\u003d__MAC2__\u0026timestamp\u003d__TS__\u0026ip\u003d58.219.216.100\u0026csite\u003d1\u0026campaign_name\u003d%E3%80%90%E7%9B%B4%E6%8A%95%E3%80%91%E9%AA%84%E9%98%B336%2D%E5%A5%BD%E8%BF%90%E6%9D%A5%2D%E5%85%B3%E9%94%AE%E8%A1%8C%E4%B8%BA%2D%E6%B7%B7%E6%8A%95%2D%E4%BC%98%E9%80%89%2D%E4%B8%BB%E7%AB%99%2D%E8%B7%91%E9%87%8F%2D3%5F%E5%A4%8D%E5%88%B6\u0026idfa\u003d__IDFA2__\u0026ua\u003d__UA__\u0026uid\u003d12410232"
+              ]
+            }
+          ],
+          "adConversionInfo": {
+            "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/?callback\u003d3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9aHhQaXRrQbuD3imxSv_byUMPhs41K-f7RZAf2cc7ArSVncT-W5Eiy_TcnK4gF3lhBL31sRgjzbfi-_4n4cJn01udJGZM72JihFd8e6w7cUXI-QvyO6Q-1lTufowDQRZrrFaQOcW_uVWHJ0IAF2vRqw",
+            "deeplinkUrl": "",
+            "appDownloadUrl": "https://update.renzhijuzhen.com/newest?package_name\u003dcom.lucking.video\u0026channel_name\u003dt-luckingvideo-kuaishou",
+            "marketUrl": "",
+            "h5Type": 0,
+            "email": "",
+            "cellphone": "",
+            "midPageUrl": "",
+            "liveStreamId": "PojYA1tAoJg"
+          },
+          "adBaseInfo": {
+            "creativeId": 22834634556,
+            "accountId": 12410232,
+            "adSourceType": 1,
+            "adDescription": "好运来看视频挣钱，收益轻松到账",
+            "adSourceDescription": "广告",
+            "adOperationType": 1,
+            "adShowDuration": 63,
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png",
+            "appName": "好运来.apk",
+            "appPackageName": "com.lucking.video",
+            "appScore": 0,
+            "adActionDescription": "立即下载",
+            "adMarkContent": "广告",
+            "campaignId": 802467729,
+            "unitId": 1465525092,
+            "adPos": 0,
+            "adxSourceType": 0,
+            "chargeInfo": "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\u003d",
+            "campaignName": "【直投】骄阳36-好运来-关键行为-混投-优选-主站-跑量-3_复制",
+            "deliveryStartTs": 0,
+            "deliveryEndTs": 0,
+            "adShowEnable": 0,
+            "productName": "好运来",
+            "enableCloseAd": true,
+            "adActionBarColor": "e55f2d",
+            "inspireAdInfo": {
+              "inspireAdBillTime": 35000
+            },
+            "autoDownloadForWifi": false,
+            "usePriorityCard": false,
+            "serverExpTag": ""
+          },
+          "adMaterialInfo": {
+            "materialType": 1,
+            "materialFeature": [
+              {
+                "materialUrl": "https://txmov2.a.kwimgs.com/upic/2022/03/25/16/BMjAyMjAzMjUxNjM2MjFfMjY5ODExNTMyOV83MDQyNDY0NDg2OF8wXzM\u003d_b_B49259b64e11b5bf07093bb2b07dddcd5.mp4?tag\u003d1-1651537373-unknown-0-qjaltbqplu-ff6232a3abc09860\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_b.mp4\u0026tt\u003db\u0026di\u003db7c7ff4c\u0026bp\u003d13291",
+                "coverUrl": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg",
+                "materialSize": {
+                  "width": 0,
+                  "height": 0
+                },
+                "featureType": 1,
+                "photoId": 5259922959522825505,
+                "photoSize": {
+                  "width": 720,
+                  "height": 1280
+                }
+              }
+            ]
+          },
+          "advertiserInfo": {
+            "userId": 2698115329,
+            "userName": "妹妹很哇塞",
+            "accountId": 12410232,
+            "userGender": "U",
+            "portraitUrl": "https://p2.a.yximgs.com/uhead/AB/2022/01/10/13/BMjAyMjAxMTAxMzU1NTBfMjY5ODExNTMyOV8zX2hkMzAwXzM4OA\u003d\u003d_s.jpg"
+          },
+          "reservationId": "",
+          "liveStartTime": 0
+        }
+      ]
+    }
+  ],
+  "feeds": [
+    {
+      "streamManifest": {
+        "version": "1.0.0",
+        "businessType": 2,
+        "mediaType": 2,
+        "videoId": "730b2b77d3d093d6",
+        "hideAuto": false,
+        "manualDefaultSelect": false,
+        "stereoType": 0,
+        "adaptationSet": [
+          {
+            "id": 1,
+            "duration": 62560,
+            "representation": [
+              {
+                "id": 1,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/TsLnhH0R-hM54sdkvEwDkNTJZrqkYJYZ1IlVc5gb1VRC3NpGuIZjL7yEEMNLo1brCE8GR8j_kklrY1ArQk0W6jEXO4kXjgJ-XcE6-0--yoQ71UfFtJi8c818GDT2XhBv-MB4bmyyMwZYrT4iirOIIWws3B0z77j-DDTvA7ImOMe0X6Sb6ALoDQ2-XXBbv2eK.mp4?tag\u003d1-1651537783-unknown-0-dup76qvyot-cd3a5c31eeb953c3\u0026type\u003dhot\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/TsLnhH0R-hM54sdkvEwDkNTJZrqkYJYZ1IlVc5gb1VRC3NpGuIZjL7yEEMNLo1brCE8GR8j_kklrY1ArQk0W6jEXO4kXjgJ-XcE6-0--yoQ71UfFtJi8c818GDT2XhBv-MB4bmyyMwZYrT4iirOIIWws3B0z77j-DDTvA7ImOMe0X6Sb6ALoDQ2-XXBbv2eK.mp4?pkey\u003dAAVjCyp0ziXRXRBIwAS2mwn0oO2wc2Mgr4kSYGhHWELNZnnKC_3kKIV63kiyy9yEOjYYTWjg4Hqgls9XKFYJcarZRBwKDKOaruKhQpY8uzJte3LmFcdP-paYIHGPgkBCup8\u0026tag\u003d1-1651537783-unknown-1-8hupzduldk-88f07ce22d29e630\u0026type\u003dhot\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_hd18.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd18\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 750,
+                "avgBitrate": 757,
+                "width": 576,
+                "height": 1024,
+                "frameRate": 25.0,
+                "quality": 1.4,
+                "qualityType": "576p",
+                "qualityLabel": "标清",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "730b2b77d3d093d6/hd18",
+                "hdrType": 0,
+                "fileSize": 5921010,
+                "bitratePattern": [
+                  757,
+                  464,
+                  1045,
+                  355,
+                  164
+                ]
+              },
+              {
+                "id": 2,
+                "url": "http://txmov6.a.kwimgs.com/ksc1/Z7xmtVd3lVW4sW-J9R6S8n2pIaN7VjovbWFrLEl2-HBH3jrRJF-0LweitPY4b4qSVm5AQX7crWMjNC6QMA1JQexqxRbwjCkfhF81wgH3zIhTAGyoOpe6o4ulVNQn47f_Ea1Mpmzlg9rprfUyMMsykdM1Py6oj1TiJjkrgmFnQfxYi3L04DZ7JIVQu3XjgoT1.mp4?tag\u003d1-1651537783-unknown-0-y3q5ewvkui-cefcb0efae5fa03c\u0026type\u003dhot\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp",
+                "backupUrl": [
+                  "http://v2.kwaicdn.com/ksc1/Z7xmtVd3lVW4sW-J9R6S8n2pIaN7VjovbWFrLEl2-HBH3jrRJF-0LweitPY4b4qSVm5AQX7crWMjNC6QMA1JQexqxRbwjCkfhF81wgH3zIhTAGyoOpe6o4ulVNQn47f_Ea1Mpmzlg9rprfUyMMsykdM1Py6oj1TiJjkrgmFnQfxYi3L04DZ7JIVQu3XjgoT1.mp4?pkey\u003dAAWy1drXNyYISdhBx9f1S8FMMwE-KLPhHIDFoRLS4XDgR910RT24WyOFKYl0fvR69Md-5Ro8386dW4t4bIq6z5Be1RUi2MwCyx_M5SPZyEzye1hfnVC5tNYPq2Mr24c5xso\u0026tag\u003d1-1651537783-unknown-1-7wtpzl7gwr-9a4e1eb374404989\u0026type\u003dhot\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_hd19.mp4\u0026di\u003d3adbd864\u0026bp\u003d10001\u0026tt\u003dhd19\u0026ss\u003dvp"
+                ],
+                "maxBitrate": 400,
+                "avgBitrate": 450,
+                "width": 540,
+                "height": 960,
+                "frameRate": 25.0,
+                "quality": 1.2,
+                "qualityType": "480p",
+                "qualityLabel": "流畅",
+                "featureP2sp": false,
+                "hidden": false,
+                "disableAdaptive": false,
+                "defaultSelect": false,
+                "comment": "730b2b77d3d093d6/hd19",
+                "hdrType": 0,
+                "fileSize": 3526321,
+                "bitratePattern": [
+                  518,
+                  393,
+                  631,
+                  270,
+                  86
+                ]
+              }
+            ]
+          }
+        ],
+        "playInfo": {},
+        "videoFeature": {
+          "blurProbability": 0.146879643201828,
+          "blockyProbability": 0.3967237174510956,
+          "avgEntropy": 11.846962474641346,
+          "mosScore": 0.6888316869735718
+        }
+      },
+      "comments": [],
+      "shareGuide": {
+        "playTimes": 1,
+        "photoShareGuide": false,
+        "minPlayDurationInSeconds": 15,
+        "textDisplayDurationInSeconds": 4
+      },
+      "us_d": 1,
+      "share_info": "userId\u003d3xmwcnpj9k659qm\u0026photoId\u003d3xmkfgzytc3tyu4",
+      "forward_stats_params": {
+        "fid": "2858800713",
+        "et": "1_u/2001307761963839442_hd0"
+      },
+      "liked": 0,
+      "hated": 0,
+      "frameStyle": 0,
+      "plcFeatureEntryAbFlag": 0,
+      "noNeedToRequestPLCApi": true,
+      "plcResponseTime": 0,
+      "plcHighPriorityThanBottomEntry": false,
+      "us_c": 0,
+      "slideCommentEntryDisabled": false,
+      "comment_count": 0,
+      "displayTime": null,
+      "location": {},
+      "time": "2022-05-03 08:29:43",
+      "timestamp": 1651537783756,
+      "caption": "好运来看视频挣钱，收益轻松到账",
+      "like_count": 0,
+      "forward_count": 0,
+      "unlike_count": 0,
+      "share_count": 77,
+      "view_count": 9499402,
+      "photo_status": 0,
+      "isShareCountExp": false,
+      "photo_id": 5259922959522825505,
+      "photoTextLocationInfo": {
+        "leftRatio": 0.056944445,
+        "topRatio": 7.8125E-4,
+        "widthRatio": 0.9375,
+        "heightRatio": 0.7109375
+      },
+      "following": 0,
+      "verified": false,
+      "user_sex": "U",
+      "headurls": [
+        {
+          "cdn": "p2.a.yximgs.com",
+          "url": "http://p2.a.yximgs.com/uhead/AB/2022/01/10/13/BMjAyMjAxMTAxMzU1NTBfMjY5ODExNTMyOV8zX2hkMzAwXzM4OA\u003d\u003d_s.jpg"
+        },
+        {
+          "cdn": "p1.a.yximgs.com",
+          "url": "http://p1.a.yximgs.com/uhead/AB/2022/01/10/13/BMjAyMjAxMTAxMzU1NTBfMjY5ODExNTMyOV8zX2hkMzAwXzM4OA\u003d\u003d_s.jpg"
+        }
+      ],
+      "user_name": "妹妹很哇塞",
+      "recoTags": [],
+      "adminTags": [],
+      "tags": [],
+      "ad": {
+        "creativeId": 22834634556,
+        "chargeInfo": "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\u003d",
+        "sourceType": 1,
+        "conversionType": 1,
+        "displayType": 2,
+        "title": "立即下载",
+        "url": "https://update.renzhijuzhen.com/newest?package_name\u003dcom.lucking.video\u0026channel_name\u003dt-luckingvideo-kuaishou",
+        "sourceDescription": "广告",
+        "subscriptDescription": "广告",
+        "adType": 1,
+        "tracks": [
+          {
+            "type": 1,
+            "url": "https://toufang.huixuanjiasu.com/kuai/shou/hyl/notify?callback_url\u003dhttp%3A%2F%2Fad.partner.gifshow.com%2Ftrack%2Factivate%3Fcallback%3D3HOj9y-INi4D6sQxr2j4mcucgkvaCXaH7zcVL82Sn9aHhQaXRrQbuD3imxSv_byUMPhs41K-f7RZAf2cc7ArSY1ndFzbluppWHCbNXzAnMMwiggWnYL2rkGcJdisvsNHmFLU7h_xKfpAc-TjKlWW9OQ16UHpwMY5eHw6AYBetTxVEd2dGs4lLt_nnC4HFgD8\u0026adid\u003d1465525092\u0026campaignid\u003d802467729\u0026cid\u003d22834634556\u0026imei\u003d__IMEI2__\u0026oaid\u003d__OAID2__\u0026androidid\u003d__ANDROIDID2__\u0026mac\u003d__MAC2__\u0026timestamp\u003d__TS__\u0026ip\u003d58.219.216.100\u0026csite\u003d1\u0026campaign_name\u003d%E3%80%90%E7%9B%B4%E6%8A%95%E3%80%91%E9%AA%84%E9%98%B336%2D%E5%A5%BD%E8%BF%90%E6%9D%A5%2D%E5%85%B3%E9%94%AE%E8%A1%8C%E4%B8%BA%2D%E6%B7%B7%E6%8A%95%2D%E4%BC%98%E9%80%89%2D%E4%B8%BB%E7%AB%99%2D%E8%B7%91%E9%87%8F%2D3%5F%E5%A4%8D%E5%88%B6\u0026idfa\u003d__IDFA2__\u0026ua\u003d__UA__\u0026uid\u003d12410232",
+            "urlOperationType": 1
+          }
+        ],
+        "adCover": {
+          "coverUrls": [
+            {
+              "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg"
+            },
+            {
+              "url": "http://ali2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg"
+            }
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "packageName": "com.lucking.video",
+        "appName": "好运来.apk",
+        "showEndOption": true,
+        "orderId": 0,
+        "preloadLandingPage": false,
+        "commentOn": true,
+        "actionBarRatio": 1.0,
+        "extData": "{\"templateInfos\":[\"6_1_120_0\",\"8_1_103_0\"]}",
+        "alertNetMobile": false,
+        "useH5": false,
+        "appIconUrl": "https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png",
+        "h5App": false,
+        "fansTopFeedFlameType": 4,
+        "enableShowFansTopFlame": false,
+        "fansTopDetailPageFlameType": 3,
+        "fansTopDetailPageFlameDesc": "",
+        "actionBarLoadTime": 3000,
+        "itemHideLabel": false,
+        "labelStyle": 0,
+        "newStyle": true,
+        "actionBarStyle": 1,
+        "score": 0.0,
+        "actionBarColor": "e55f2d",
+        "manuUrls": [],
+        "usePriorityCard": false,
+        "coverId": 4569993897,
+        "templateType": 1,
+        "pageId": 11101,
+        "subPageId": 100013630,
+        "landingPageStyle": 0,
+        "clientStyleInfo": {
+          "landingPageActionbarInfo": {
+            "actionBarDisplayInfo": "推荐",
+            "actionBarShowTime": 3000,
+            "popLandingPageHeightPct": 30
+          },
+          "adMaterialFeatures": null
+        },
+        "weakStyle": false,
+        "adData": {
+          "cover": null,
+          "useTrackType": 0
+        },
+        "adDataV2": {
+          "abTestForAdForms": "{\"enable_appinstall_webcard_info\": false,\"enable_nebula_slide_landingpage\": true}",
+          "actionBarInfo": {
+            "actionBarColor": "e55f2d",
+            "actionBarLoadTime": 5000,
+            "actionBarStyle": 1,
+            "displayInfo": "立即下载",
+            "downloadedActionBarLoadTime": 3000,
+            "realShowDelayTime": 7000,
+            "withoutFloatingToComment": true
+          },
+          "adAfterCaption": 1,
+          "adCoverPageButtonControl": 6,
+          "adPageButtonControl": 6,
+          "antiVendorVari": 0,
+          "apkMd5Info": {
+            "apkMd5s": [
+              "6ff404a80be10d84e7cc4c6153a6d8e0",
+              "529847e1643efa612f288cb72d42a239",
+              "10465689",
+              "4a6c02da33b8ea7760e28f77b3e2d65d",
+              "e2a5ce84ea9d8bc0bb80b2a5ede2396b"
+            ],
+            "unexpectedMd5Strategy": 0
+          },
+          "captionAdvertisementInfo": {
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png",
+            "productName": "好运来"
+          },
+          "commentActionBarInfo": {
+            "actionBarColor": "e55f2d",
+            "actionBarLocation": 2,
+            "actionBarStyle": 2,
+            "commentActionBarTitle": "立即下载",
+            "displayInfo": "立即下载",
+            "templateId": "adtk-comment-actionbar"
+          },
+          "convertInfo": {
+            "convertId": 0,
+            "convertType": 0
+          },
+          "deepRewardedInfo": {},
+          "deviceInfo": [
+            ""
+          ],
+          "enableAppDownloadPause": true,
+          "enableSka": false,
+          "exitDialogInfo": {
+            "enableShowChangeVideoButton": false
+          },
+          "h5ControlInfo": {
+            "hideH5ReportEntrance": true,
+            "isDownloadLandingPageMould": true
+          },
+          "h5Data": "{\"coverUrlFrontend\":\"http://static.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.jpg\",\"extraDisplayInfo\":{\"exposeTag\":null,\"showStyle\":0,\"exposeTagInfoList\":null},\"privacyInfo\":{\"appInfo\":{\"appName\":\"好运来\",\"appVersion\":\"1.0.3.3\",\"packageSize\":44255537,\"updateTime\":1647919838290,\"developer\":\"北京认知矩阵网络科技有限公司\",\"appDetailImg\":\"\"},\"appPermissions\":[{\"permissionName\":\"android.permission.READ_PHONE_STATE\",\"permissionDetail\":\"允许程序访问电话状态\"},{\"permissionName\":\"android.permission.WRITE_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序写入外部存储，如SD卡上写文件\"},{\"permissionName\":\"android.permission.READ_EXTERNAL_STORAGE\",\"permissionDetail\":\"允许程序可以读取设备外部存储空间\"},{\"permissionName\":\"android.permission.ACCESS_COARSE_LOCATION\",\"permissionDetail\":\"允许程序通过WiFi或移动基站的方式获取用户粗略位置信息\"},{\"permissionName\":\"android.permission.ACCESS_FINE_LOCATION\",\"permissionDetail\":\"允许程序通过GPS芯片接收卫星的定位信息\"},{\"permissionName\":\"android.permission.CAMERA\",\"permissionDetail\":\"允许程序访问摄像头进行拍照\"},{\"permissionName\":\"android.permission.RECORD_AUDIO\",\"permissionDetail\":\"允许程序录制声音通过手机或耳机的麦克\"}],\"privacyPolicyUrl\":\"https://h5.cognizematrix.com/?package_name\u003dcom.lucking.video\"}}",
+          "h5Url": "https://activity.e.kuaishou.com/ksDownloadPage/",
+          "inspireAdInfo": {
+            "enableClickOtherArea": true,
+            "inspireAdBillTime": 26000,
+            "supportLiveReservation": false
+          },
+          "iosAppId": "",
+          "iosPageId": "",
+          "itemClickUrls": {
+            "actionBarClickUrls": {
+              "appLink": "",
+              "url": ""
+            }
+          },
+          "landingPageInfo": {
+            "commentTagVisible": true
+          },
+          "mixBarInfo": {
+            "templateId": "adtk-feed-mixbar"
+          },
+          "negativeMenuInfo": {
+            "negativeMenus": [
+              {
+                "id": 7,
+                "name": "不喜欢: 好运来",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_yiji_normal.png"
+              },
+              {
+                "id": 8,
+                "name": "不喜欢: 影音娱乐资讯及软件广告",
+                "clickAction": 2,
+                "url": "",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/dislike_icon_similarpost_normal.png"
+              },
+              {
+                "id": 11,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_dislike_v3.png"
+              },
+              {
+                "id": 12,
+                "name": "不感兴趣",
+                "clickAction": 3,
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_dislike_v4.png",
+                "desc": "减少此类内容"
+              },
+              {
+                "id": 13,
+                "name": "不感兴趣该内容",
+                "clickAction": 2
+              },
+              {
+                "id": 14,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d70424644868",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_report_v3.png"
+              },
+              {
+                "id": 15,
+                "name": "举报",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026photoId\u003d70424644868",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_report_v4.png",
+                "desc": "低俗色情、虚假诈欺等"
+              },
+              {
+                "id": 16,
+                "name": "为何看到此广告",
+                "clickAction": 2,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-dialog?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/layer_ad_reason_icon.png"
+              },
+              {
+                "id": 17,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/negative_reason_v2.png"
+              },
+              {
+                "id": 18,
+                "name": "为何看到此广告",
+                "clickAction": 1,
+                "url": "https://activity.e.kuaishou.com/pages/report/why-show-ad-full?layoutType\u003d4\u0026bizId\u003dad_fe_full_loading\u0026noBackNavi\u003dtrue",
+                "icon": "https://static.yximgs.com/udata/pkg/ks-dark/feed_negative_reason_v3.png"
+              }
+            ],
+            "feedNegativeMenu": [
+              {
+                "menuId": 12,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 15
+              },
+              {
+                "menuId": 17
+              }
+            ],
+            "detailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 16
+              }
+            ],
+            "thanosDetailNegativeMenu": [
+              {
+                "menuId": 11,
+                "title": "你不感兴趣这条广告的原因？",
+                "subMenuIds": [
+                  13,
+                  7,
+                  8
+                ]
+              },
+              {
+                "menuId": 14
+              },
+              {
+                "menuId": 18
+              }
+            ],
+            "negativeStyle": 3
+          },
+          "originStyleInfo": {
+            "actionBarBgColor": "e55f2d",
+            "actionBarDesc": "好运来看视频挣钱，收益轻松到账",
+            "actionBarTagColor": "d84e1a",
+            "actionBarText": "立即下载",
+            "appIconUrl": "https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png",
+            "appName": "好运来",
+            "appScore": "0",
+            "consultId": "0",
+            "photoUserInfo": {},
+            "productIconUrl": "https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png",
+            "productName": "好运来",
+            "secondIndustryName": "影音娱乐资讯及软件",
+            "showPlayEndInfo": true
+          },
+          "playEndInfo": {
+            "actionBarColor": "e55f2d",
+            "playEndStyle": 1,
+            "showEndOption": false,
+            "tagColor": "c64718"
+          },
+          "playedReportRate": [
+            0.75
+          ],
+          "playedReportTime": [
+            7000,
+            10000,
+            18000
+          ],
+          "posId": "4685",
+          "privacyOption": {
+            "showPhotoRiskTip": true,
+            "showH5RiskTip": true,
+            "displayPosition": 2,
+            "riskTipText": "您访问的网站由第三方提供",
+            "appInfo": {
+              "appName": "好运来",
+              "appVersion": "1.0.3.3",
+              "packageSize": 44255537,
+              "updateTime": 1647919838290,
+              "developer": "北京认知矩阵网络科技有限公司",
+              "appDetailImg": ""
+            },
+            "style": 0,
+            "photoRiskTipUrl": "https://activity.e.kuaishou.com/privacyProtect/",
+            "appDisplayText": "应用名：好运来；版本号：1.0.3.3；应用大小：42.0M；开发者：北京认知矩阵网络科技有限公司",
+            "links": [
+              {
+                "linkText": "应用权限",
+                "linkUrl": "https://activity.e.kuaishou.com/privacyProtect-v2/"
+              },
+              {
+                "linkText": "隐私政策",
+                "linkUrl": "https://h5.cognizematrix.com/?package_name\u003dcom.lucking.video"
+              }
+            ]
+          },
+          "templateDatas": [
+            {
+              "commentActionBarType": 1,
+              "data": "{\"hideIcon\":false,\"subTitle\":\"好运来看视频挣钱，收益轻松到账\",\"iconUrl\":\"https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png\",\"title\":\"好运来\",\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCCC3D\"}",
+              "displayLocation": 0,
+              "resourceType": 1,
+              "styleType": 8,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-comment-actionbar",
+              "templateShowTime": 0
+            },
+            {
+              "data": "{\"realShowDelayTime\":6000,\"subTitle\":\"好运来看视频挣钱，收益轻松到账\",\"bannerTitle\":\"近一周2.2万人已下载\",\"actionbarExpandTime\":9000,\"displayInfo\":{\"actionBar\":\"立即下载\",\"actionBarBgColor\":\"CCCC3D\"},\"iconUrl\":\"https://static.yximgs.com/udata/pkg/010675d9209a4da38da09b654c3b66e1.png\",\"title\":\"好运来\",\"cardStyle\":2,\"actionBarLoadTime\":4000,\"showWeakStyle\":true,\"weakStyleInfo\":{\"animationStyle\":2,\"weakStyleDelayTime\":0,\"title\":\"近一周2.2万人已下载\"}}",
+              "displayLocation": 0,
+              "mixBarType": 1,
+              "resourceType": 1,
+              "styleType": 6,
+              "templateDelayTime": 9000,
+              "templateId": "adtk-feed-mixbar",
+              "templateShowTime": 0
+            }
+          ],
+          "useAppMarket": true,
+          "webviewType": 0
+        },
+        "adDescription": "好运来看视频挣钱，收益轻松到账",
+        "smallIcon": null,
+        "merchantEnhanceDisplay": null,
+        "hasNewStyle": 0,
+        "missionId": 0,
+        "taskId": 0,
+        "adRerankInfo": {
+          "pos": 5,
+          "rankType": 3
+        },
+        "adStyle": 0,
+        "deviceInfo": null,
+        "styles": {
+          "templates": [
+            {
+              "templateId": "adtk-comment-actionbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-comment-actionbar.103.js",
+              "templateVersion": "1.0.3",
+              "templateVersionCode": 103,
+              "templateMd5": "71b760ec732ec84400a7886e5682cf46"
+            },
+            {
+              "templateId": "adtk-feed-mixbar",
+              "templateUrl": "https://p1.adkwai.com/kos/nlav11461/r_adtk-feed-mixbar.120.js",
+              "templateVersion": "1.2.0",
+              "templateVersionCode": 120,
+              "templateMd5": "a2fe136807556b88d818d76ba02fd3ee"
+            }
+          ]
+        },
+        "universeConfig": null,
+        "callbackParam": null,
+        "layout": null,
+        "playEndInfo": {
+          "playEndStyle": 1000
+        },
+        "adTypeForGap": 1,
+        "enableRetainTopAd": false,
+        "supConversionType": null,
+        "disableFansTopDetailIconClick": false,
+        "switchBit": 1
+      },
+      "type": 1,
+      "main_mv_url": "https://txmov2.a.kwimgs.com/upic/2022/03/25/16/BMjAyMjAzMjUxNjM2MjFfMjY5ODExNTMyOV83MDQyNDY0NDg2OF8wXzM\u003d_b_B49259b64e11b5bf07093bb2b07dddcd5.mp4?tag\u003d1-1651537373-unknown-0-qjaltbqplu-ff6232a3abc09860\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_b.mp4\u0026tt\u003db\u0026di\u003db7c7ff4c\u0026bp\u003d13291",
+      "cover_thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg"
+        }
+      ],
+      "thumbnail_url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg",
+      "cover_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg"
+        }
+      ],
+      "thumbnail_urls": [
+        {
+          "url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg"
+        }
+      ],
+      "main_mv_urls": [
+        {
+          "url": "https://txmov2.a.kwimgs.com/upic/2022/03/25/16/BMjAyMjAzMjUxNjM2MjFfMjY5ODExNTMyOV83MDQyNDY0NDg2OF8wXzM\u003d_b_B49259b64e11b5bf07093bb2b07dddcd5.mp4?tag\u003d1-1651537373-unknown-0-qjaltbqplu-ff6232a3abc09860\u0026clientCacheKey\u003d3xmkfgzytc3tyu4_b.mp4\u0026tt\u003db\u0026di\u003db7c7ff4c\u0026bp\u003d13291"
+        }
+      ],
+      "main_url": "http://tx2.a.yximgs.com/udata/pkg/smart_6e785a27a1a54515a102cc5e0c9708be.kpg",
+      "ext_params": {
+        "mtype": 3,
+        "color": "EAEAEA",
+        "w": 720,
+        "sound": 0,
+        "h": 1280,
+        "interval": 25,
+        "video": 62560
+      },
+      "profilePagePrefetchInfo": {
+        "profilePageType": 1
+      },
+      "override_cover_size": {
+        "width": 720,
+        "height": 1280
+      },
+      "followShoot": {
+        "isLipsSyncPhoto": false
+      },
+      "extEntry": null,
+      "exp_tag": "1_u/2001307761963839442_hd0",
+      "serverExpTag": "feed_photo|5259922959522825505|2698115329|1_u/2001307761963839442_hd0",
+      "user_id": 2698115329,
+      "feedLogCtx": {
+        "stidContainer": "CkMxfDIwMDEzMDc3NjE5NjM4Mzk0NDJ8cGhvdG86NTI1OTkyMjk1OTUyMjgyNTUwNXx7InBnIjoiaGQifXx7InIiOjB9"
+      }
+    }
+  ],
+  "error_msg": "OK"
 }
 ]
